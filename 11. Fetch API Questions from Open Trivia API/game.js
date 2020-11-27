@@ -93,11 +93,11 @@ choices.forEach((choice) => {
             incrementScore(CORRECT_BONUS);
         }
 
-        selectedChoice.parentElement.classList.add(classToApply);
+        selectedChoice.chiledParentElement.classList.add(classToApply);
 
 
         setTimeout(() => {
-            selectedChoice.parentElement.classList.remove(classToApply);
+            selectedChoice.chiledParentElement.classList.remove(classToApply);
             getNewQuestion();
         }, 1000);
     });
