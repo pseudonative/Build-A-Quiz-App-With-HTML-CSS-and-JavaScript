@@ -12,15 +12,15 @@ Want to improve your **core Web Develoment skills**? Want to improve your knowle
 
 -   Save high scores in Local Storage
 -   Create a progress bar
--   Create a spinning loader icon
+-   Create a spinning loader icondsadfsad
 -   Dynamically generate HTML in JavaScript
--   Fetch trivia questions from Open Trivia DB APIe
+-   Fetch trivia questions from Open Trivia DB API
 
 -   JavaScript - Array Functions (splice, map, sort), Local Storage, Fetch API
 -   ES6 JavaScript Features - Arrow Functions, the Spread Operator, Const and Let, Template Literals
 -   CSS - Flexbox, Animtations, and REM units
 
-## Course Intro and Resources
+## Course Intro and Resourcesasdfasdf
 
 Welcome to "Build a Quiz App with HTML, CSS, and JS". I'm so excited you decided to take the initiative to improve your core Web Development skills!
 
