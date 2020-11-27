@@ -12,7 +12,7 @@ Want to improve your **core Web Develoment skills**? Want to improve your knowle
 -   Create a progress bar
 -   Create a spinning loader icon
 -   Dynamically generate HTML in JavaScript
--   Fetch trivia questions from Open Trivia DB API
+-   Fetch trivia questions from Open Trivia DB APIe
 
 -   JavaScript - Array Functions (splice, map, sort), Local Storage, Fetch API
 -   ES6 JavaScript Features - Arrow Functions, the Spread Operator, Const and Let, Template Literals
