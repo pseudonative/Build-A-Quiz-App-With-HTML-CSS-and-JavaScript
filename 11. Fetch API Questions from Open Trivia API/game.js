@@ -12,8 +12,8 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-    'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
-)
+        'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
+    )
     .then((res) => {
         return res.json();
     })
@@ -95,6 +95,7 @@ choices.forEach((choice) => {
 
         selectedChoice.parentElement.classList.add(classToApply);
 
+
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply);
             getNewQuestion();
@@ -106,3 +107,8 @@ incrementScore = (num) => {
     score += num;
     scoreText.innerText = score;
 };
+//!
+//TODO
+//?
+//FIXME
+//!

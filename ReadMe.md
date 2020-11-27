@@ -102,7 +102,7 @@ Resources
 
 In this video, we will create our High Scores page. We will have to load the high scores from Local Storage, iterate through them, and display them on the screen.
 
-Resources
+Resourcesd
 
 -   [JSON Parse and Stringify](https://alligator.io/js/json-parse-stringify/)
 -   [Array Sort](https://www.w3schools.com/js/js_array_sort.asp)
